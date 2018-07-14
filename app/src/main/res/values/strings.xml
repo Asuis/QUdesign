@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QUdesign</string>
+    <!--icon start-->
+    <string name="search_light">&#xe666;</string>
+    <string name="search_dark">&#xe667;</string>
+    <string name="scan">&#xe638;</string>
+    <string name="me">&#xe62e;</string>
+    <string name="list">&#xe630;</string>
+    <string name="more_1">&#xe637;</string>
+    <string name="more_2">&#xe619;</string>
+    <string name="social">&#xe644;</string>
+    <string name="qq">&#xe60b;</string>
+    <string name="help">&#xe629;</string>
+    <string name="study">&#xe64c;</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

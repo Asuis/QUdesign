@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lesson_num">
+        <item>1节课</item>
+        <item>2节课</item>
+        <item>3节课</item>
+        <item>4节课</item>
+        <item>5节课</item>
+    </string-array>
+</resources>

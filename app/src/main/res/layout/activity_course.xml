@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.asuis.qudesign.course.CourseActivity">
+    <com.qmuiteam.qmui.widget.QMUITopBar
+        android:id="@+id/coutseTopBar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/home_tab_height">
+    </com.qmuiteam.qmui.widget.QMUITopBar>
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rec_course"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
